@@ -1,0 +1,14 @@
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\bin\Debug\net8.0\Calculadora.exe
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\bin\Debug\net8.0\Calculadora.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\obj\Debug\net8.0\Calculadora.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll

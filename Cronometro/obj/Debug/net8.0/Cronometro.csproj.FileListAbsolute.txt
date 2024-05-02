@@ -1,0 +1,14 @@
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\bin\Debug\net8.0\Cronometro.exe
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\bin\Debug\net8.0\Cronometro.deps.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\bin\Debug\net8.0\Cronometro.runtimeconfig.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\bin\Debug\net8.0\Cronometro.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\bin\Debug\net8.0\Cronometro.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\obj\Debug\net8.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\obj\Debug\net8.0\Cronometro.AssemblyInfoInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\obj\Debug\net8.0\Cronometro.AssemblyInfo.cs
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\obj\Debug\net8.0\Cronometro.csproj.CoreCompileInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\obj\Debug\net8.0\Cronometro.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\obj\Debug\net8.0\refint\Cronometro.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\obj\Debug\net8.0\Cronometro.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\obj\Debug\net8.0\Cronometro.genruntimeconfig.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Cronometro\obj\Debug\net8.0\ref\Cronometro.dll

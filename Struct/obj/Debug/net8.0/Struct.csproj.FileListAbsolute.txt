@@ -1,0 +1,14 @@
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\bin\Debug\net8.0\Struct.exe
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\bin\Debug\net8.0\Struct.deps.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\bin\Debug\net8.0\Struct.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\bin\Debug\net8.0\Struct.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\obj\Debug\net8.0\Struct.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\obj\Debug\net8.0\refint\Struct.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\obj\Debug\net8.0\Struct.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Struct\obj\Debug\net8.0\ref\Struct.dll
