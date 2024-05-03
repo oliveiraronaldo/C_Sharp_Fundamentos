@@ -1,0 +1,14 @@
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\bin\Debug\net8.0\Strings.exe
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\bin\Debug\net8.0\Strings.deps.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\bin\Debug\net8.0\Strings.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\bin\Debug\net8.0\Strings.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\obj\Debug\net8.0\Strings.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\obj\Debug\net8.0\refint\Strings.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\obj\Debug\net8.0\Strings.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Strings\obj\Debug\net8.0\ref\Strings.dll
