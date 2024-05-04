@@ -1,0 +1,15 @@
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.exe
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.deps.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.runtimeconfig.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.AssemblyInfoInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.AssemblyInfo.cs
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.csproj.CoreCompileInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.sourcelink.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\obj\Debug\net8.0\refint\HTMLEditor.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.genruntimeconfig.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\HTMLEditor\obj\Debug\net8.0\ref\HTMLEditor.dll
