@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using System.Text;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -35,5 +37,33 @@
         Console.WriteLine(texto.Contains("test"));
         Console.WriteLine(texto.Contains("teSt", StringComparison.OrdinalIgnoreCase));
         */
+
+
+
+        /*                                                                          
+            var texto = "         Este texto é um teste";
+
+            var divisao = texto.Split(" ");
+
+            foreach (var item in divisao)
+            {
+                Console.WriteLine(item);
+            }
+
+            Console.WriteLine(texto);
+            Console.WriteLine(texto.Trim());
+        */
+
+        var texto = new StringBuilder();
+
+        texto.Append("Um texto\n");
+        texto.Append("Um texto\n");
+        texto.Append("Um texto\n");
+        texto.Append("Um texto\n");
+        texto.Append("Um texto\n");
+
+        texto.ToString();
+        Console.WriteLine(texto);
+
     }
 }
