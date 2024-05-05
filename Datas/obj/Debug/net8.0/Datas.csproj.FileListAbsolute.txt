@@ -1,0 +1,15 @@
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\bin\Debug\net8.0\Datas.exe
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\bin\Debug\net8.0\Datas.deps.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\bin\Debug\net8.0\Datas.runtimeconfig.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\bin\Debug\net8.0\Datas.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\bin\Debug\net8.0\Datas.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\obj\Debug\net8.0\Datas.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\obj\Debug\net8.0\Datas.AssemblyInfoInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\obj\Debug\net8.0\Datas.AssemblyInfo.cs
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\obj\Debug\net8.0\Datas.csproj.CoreCompileInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\obj\Debug\net8.0\Datas.sourcelink.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\obj\Debug\net8.0\Datas.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\obj\Debug\net8.0\refint\Datas.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\obj\Debug\net8.0\Datas.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\obj\Debug\net8.0\Datas.genruntimeconfig.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Datas\obj\Debug\net8.0\ref\Datas.dll
