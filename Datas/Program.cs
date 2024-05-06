@@ -12,8 +12,8 @@ internal class Program
 
         // Formatacao.Formatar();
         // Comparacao.Compare();
-        Cultura.Culture();
-        // ZonaTempo.Zone();
+        // Cultura.Culture();
+        ZonaTempo.Zone();
 
 
 
