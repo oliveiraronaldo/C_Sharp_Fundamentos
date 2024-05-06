@@ -1,0 +1,15 @@
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\bin\Debug\net8.0\Moedas.exe
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\bin\Debug\net8.0\Moedas.deps.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\bin\Debug\net8.0\Moedas.runtimeconfig.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\bin\Debug\net8.0\Moedas.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\bin\Debug\net8.0\Moedas.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\obj\Debug\net8.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\obj\Debug\net8.0\Moedas.AssemblyInfoInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\obj\Debug\net8.0\Moedas.AssemblyInfo.cs
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\obj\Debug\net8.0\Moedas.csproj.CoreCompileInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\obj\Debug\net8.0\Moedas.sourcelink.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\obj\Debug\net8.0\Moedas.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\obj\Debug\net8.0\refint\Moedas.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\obj\Debug\net8.0\Moedas.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\obj\Debug\net8.0\Moedas.genruntimeconfig.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Moedas\obj\Debug\net8.0\ref\Moedas.dll
