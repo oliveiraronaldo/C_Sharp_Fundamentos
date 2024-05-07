@@ -1,0 +1,15 @@
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\bin\Debug\net8.0\Arrays.exe
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\bin\Debug\net8.0\Arrays.deps.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\bin\Debug\net8.0\Arrays.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\bin\Debug\net8.0\Arrays.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\obj\Debug\net8.0\Arrays.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\obj\Debug\net8.0\Arrays.pdb
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+D:\C# Fundamentos\C_Sharp_Fundamentos\Arrays\obj\Debug\net8.0\ref\Arrays.dll
